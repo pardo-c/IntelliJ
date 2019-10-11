@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Replace string with template string" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+  </component>
+</application>
