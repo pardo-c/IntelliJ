@@ -87,5 +87,6 @@
     <option name="PRESENTATION_MODE_FONT_SIZE" value="26" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="smoothScrolling" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
