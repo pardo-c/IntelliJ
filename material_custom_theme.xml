@@ -3,17 +3,17 @@
     <option name="excludedColor" value="292d3eff" />
     <option name="accentColor" value="ff2487ff" />
     <option name="notificationsColor" value="090b10ff" />
-    <option name="treeSelectionColor" value="717cb416" />
-    <option name="highlightColor" value="1f2233ff" />
-    <option name="secondBorderColor" value="0f111aff" />
+    <option name="treeSelectionColor" value="8592d416" />
+    <option name="highlightColor" value="42486cff" />
+    <option name="secondBorderColor" value="394163ff" />
     <option name="tableSelectedColor" value="1a1c25ff" />
     <option name="contrastColor" value="090b10ff" />
     <option name="disabledColor" value="464b5dff" />
     <option name="secondaryBackgroundColor" value="181a1fff" />
-    <option name="buttonColor" value="191a21ff" />
+    <option name="buttonColor" value="1e1f27ff" />
     <option name="selectionForegroundColor" value="ffffffff" />
     <option name="selectionBackgroundColor" value="232632ff" />
-    <option name="textColor" value="4b526dff" />
+    <option name="textColor" value="7f8bb9ff" />
     <option name="foregroundColor" value="8f93a2ff" />
     <option name="backgroundColor" value="0f111aff" />
   </component>
