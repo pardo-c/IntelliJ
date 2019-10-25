@@ -3,10 +3,10 @@
     <option name="excludedColor" value="292d3eff" />
     <option name="accentColor" value="ff2487ff" />
     <option name="notificationsColor" value="090b10ff" />
-    <option name="treeSelectionColor" value="8592d416" />
-    <option name="highlightColor" value="42486cff" />
-    <option name="secondBorderColor" value="394163ff" />
-    <option name="tableSelectedColor" value="1a1c25ff" />
+    <option name="treeSelectionColor" value="ff8edf2e" />
+    <option name="highlightColor" value="01e5d6ff" />
+    <option name="secondBorderColor" value="6e7dbfff" />
+    <option name="tableSelectedColor" value="414455ff" />
     <option name="contrastColor" value="090b10ff" />
     <option name="disabledColor" value="464b5dff" />
     <option name="secondaryBackgroundColor" value="181a1fff" />
