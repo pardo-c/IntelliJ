@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="accentMode" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="highlightColorEnabled" value="true" />
@@ -8,7 +9,6 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
@@ -20,10 +20,10 @@
     <option name="indicatorThickness" value="5" />
     <option name="rightTreeIndent" value="12" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="2979ff" />
+    <option name="accentColor" value="ffd866" />
     <option name="secondAccentColor" value="01cbbe" />
     <option name="highlightColor" value="ff2487" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-44ab5d71:16c3b83486f:-7ffb" />
     <option name="version" value="4.5.1" />
   </component>
