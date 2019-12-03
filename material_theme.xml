@@ -20,9 +20,10 @@
     <option name="indicatorThickness" value="5" />
     <option name="rightTreeIndent" value="12" />
     <option name="tabsHeight" value="18" />
+    <option name="accentColor" value="651fff" />
     <option name="secondAccentColor" value="01cbbe" />
     <option name="highlightColor" value="ff2487" />
-    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-44ab5d71:16c3b83486f:-7ffb" />
     <option name="version" value="4.5.2" />
   </component>
