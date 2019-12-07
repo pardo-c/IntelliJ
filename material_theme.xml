@@ -5,7 +5,6 @@
     <option name="compactSidebar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
@@ -19,11 +18,12 @@
     <option name="tabFontSize" value="14" />
     <option name="indicatorThickness" value="5" />
     <option name="rightTreeIndent" value="12" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="18" />
     <option name="accentColor" value="651fff" />
     <option name="secondAccentColor" value="01cbbe" />
     <option name="highlightColor" value="ff2487" />
-    <option name="selectedTheme" value="DRACULA" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-44ab5d71:16c3b83486f:-7ffb" />
     <option name="version" value="4.5.2" />
   </component>
