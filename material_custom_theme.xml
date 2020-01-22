@@ -7,14 +7,14 @@
     <option name="highlightColor" value="fc01ffff" />
     <option name="secondBorderColor" value="f9d1bfff" />
     <option name="tableSelectedColor" value="ff20c1ff" />
-    <option name="contrastColor" value="090b10ff" />
+    <option name="contrastColor" value="150710ff" />
     <option name="disabledColor" value="464b5dff" />
-    <option name="secondaryBackgroundColor" value="39001cff" />
+    <option name="secondaryBackgroundColor" value="0f0308ff" />
     <option name="buttonColor" value="1e1f27ff" />
-    <option name="selectionForegroundColor" value="ffd9feff" />
-    <option name="selectionBackgroundColor" value="5c6483ff" />
-    <option name="textColor" value="b3c6ffff" />
-    <option name="foregroundColor" value="ffcbcbff" />
-    <option name="backgroundColor" value="0e0007ff" />
+    <option name="selectionForegroundColor" value="04ffebff" />
+    <option name="selectionBackgroundColor" value="0f0308ff" />
+    <option name="textColor" value="c57bffff" />
+    <option name="foregroundColor" value="c57bffff" />
+    <option name="backgroundColor" value="060103ff" />
   </component>
 </application>
