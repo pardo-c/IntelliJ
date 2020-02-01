@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="WizardAssetArea" type="JavaScript" />
       <mapping pattern="StateStore" type="JavaScript" />
       <mapping ext="mdj" type="Native" />
       <mapping ext="vpp" type="Native" />
