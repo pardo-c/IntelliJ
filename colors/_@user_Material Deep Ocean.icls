@@ -4,7 +4,7 @@
     <property name="created">2020-01-22T09:06:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-02-06T17:00:27</property>
+    <property name="modified">2020-02-07T11:17:42</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -69,6 +69,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="84ffff" />
     <option name="SELECTION_BACKGROUND" value="3b3f51" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="341f34" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b3f51" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="84ffffc0" />
@@ -169,6 +170,8 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="341f34" />
+        <option name="BACKGROUND" value="341f34" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
       </value>
