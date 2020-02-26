@@ -4,7 +4,7 @@
     <property name="created">2020-01-22T09:06:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-02-18T18:40:39</property>
+    <property name="modified">2020-02-26T10:50:12</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -43,7 +43,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="ea55b0" />
+    <option name="FILESTATUS_MODIFIED" value="eae7" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
@@ -63,13 +63,14 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="4b526d" />
     <option name="QUESTION_HINT" value="f111a" />
+    <option name="READONLY_BACKGROUND" value="643b64" />
     <option name="RECENT_LOCATIONS_SELECTION" value="90b10" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3f51" />
     <option name="SELECTED_INDENT_GUIDE" value="84ffff" />
     <option name="SELECTED_TEARLINE_COLOR" value="84ffff" />
     <option name="SELECTION_BACKGROUND" value="3b3f51" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="341f34" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="6e426e" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b3f51" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="84ffffc0" />
