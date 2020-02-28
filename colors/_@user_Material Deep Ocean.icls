@@ -4,7 +4,7 @@
     <property name="created">2020-01-22T09:06:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-02-26T10:50:12</property>
+    <property name="modified">2020-02-28T14:59:43</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -28,7 +28,7 @@
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="1b2529" />
+    <option name="CARET_ROW_COLOR" value="29393f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f111a" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />

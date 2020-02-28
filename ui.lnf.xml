@@ -86,6 +86,7 @@
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="smoothScrolling" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
