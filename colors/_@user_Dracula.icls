@@ -4,7 +4,7 @@
     <property name="created">2020-04-14T09:52:47</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-04-14T12:01:53</property>
+    <property name="modified">2020-04-14T12:09:10</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -19,18 +19,18 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
     <option name="ANNOTATIONS_COLOR" value="282a36" />
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="14151b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="c0c10" />
     <option name="DELETED_LINES_COLOR" value="ff79c6" />
     <option name="DOCUMENTATION_COLOR" value="282a36" />
     <option name="FILESTATUS_ADDED" value="50fa7b" />
