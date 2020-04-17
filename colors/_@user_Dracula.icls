@@ -4,7 +4,7 @@
     <property name="created">2020-04-14T09:52:47</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-04-14T12:09:10</property>
+    <property name="modified">2020-04-17T15:13:28</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -53,7 +53,7 @@
     <option name="FILESTATUS_addedOutside" value="6272a4" />
     <option name="FILESTATUS_changelistConflict" value="ff79c6" />
     <option name="FILESTATUS_modifiedOutside" value="bd93f9" />
-    <option name="GUTTER_BACKGROUND" value="282a36" />
+    <option name="GUTTER_BACKGROUND" value="16171e" />
     <option name="INDENT_GUIDE" value="424450" />
     <option name="INFORMATION_HINT" value="282a36" />
     <option name="LINE_NUMBERS_COLOR" value="666879" />
@@ -2338,7 +2338,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="282a36" />
+        <option name="BACKGROUND" value="16171e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
