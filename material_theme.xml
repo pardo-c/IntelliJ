@@ -22,12 +22,11 @@
     <option name="highlightThickness" value="3" />
     <option name="indicatorThickness" value="5" />
     <option name="rightTreeIndent" value="12" />
-    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="aaa3ce" />
-    <option name="secondAccentColor" value="01cbbe" />
+    <option name="accentColor" value="48435c" />
+    <option name="secondAccentColor" value="00a9cb" />
     <option name="highlightColor" value="05ffe9" />
-    <option name="selectedTheme" value="LIGHTER" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-44ab5d71:16c3b83486f:-7ffb" />
     <option name="version" value="4.5.2" />
   </component>
