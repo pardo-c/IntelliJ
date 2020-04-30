@@ -3,7 +3,7 @@
     <property name="created">2020-04-29T23:03:18</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-04-29T23:14:53</property>
+    <property name="modified">2020-04-29T23:27:40</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -20,7 +20,6 @@
     <option name="FILESTATUS_MODIFIED" value="986801" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_OBSOLETE" value="b58900" />
     <option name="FILESTATUS_RENAMED" value="a626a4" />
     <option name="FILESTATUS_SUPPRESSED" value="383a42" />
     <option name="FILESTATUS_SWITCHED" value="4078f2" />
