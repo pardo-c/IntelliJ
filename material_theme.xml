@@ -23,10 +23,10 @@
     <option name="indicatorThickness" value="5" />
     <option name="rightTreeIndent" value="12" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="48435c" />
+    <option name="accentColor" value="fffd20" />
     <option name="secondAccentColor" value="00a9cb" />
     <option name="highlightColor" value="05ffe9" />
-    <option name="selectedTheme" value="GITHUB" />
+    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="userId" value="-44ab5d71:16c3b83486f:-7ffb" />
     <option name="version" value="4.5.2" />
   </component>
