@@ -13,6 +13,7 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
@@ -23,7 +24,7 @@
     <option name="indicatorThickness" value="5" />
     <option name="rightTreeIndent" value="12" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="fffd20" />
+    <option name="accentColor" value="f1edff" />
     <option name="secondAccentColor" value="00a9cb" />
     <option name="highlightColor" value="05ffe9" />
     <option name="selectedTheme" value="LIGHT_CUSTOM" />
