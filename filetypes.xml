@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="LaserficheUploadForm" type="JavaScript" />
       <mapping pattern="WizardAssetArea" type="JavaScript" />
       <mapping pattern="StateStore" type="JavaScript" />
       <mapping ext="mdj" type="Native" />
