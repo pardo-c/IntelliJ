@@ -9,6 +9,7 @@
       <mapping ext="mdj" type="Native" />
       <mapping ext="vpp" type="Native" />
       <mapping pattern="component" type="PLAIN_TEXT" />
+      <mapping pattern="EmailAttachments" type="PLAIN_TEXT" />
       <mapping pattern="tenant-service" type="PLAIN_TEXT" />
       <mapping ext="e" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
