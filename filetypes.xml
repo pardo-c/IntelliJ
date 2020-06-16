@@ -6,6 +6,7 @@
       <mapping pattern="LaserficheUploadForm" type="JavaScript" />
       <mapping pattern="WizardAssetArea" type="JavaScript" />
       <mapping pattern="StateStore" type="JavaScript" />
+      <mapping pattern="RoadModel" type="JavaScript" />
       <mapping ext="mdj" type="Native" />
       <mapping ext="vpp" type="Native" />
       <mapping pattern="component" type="PLAIN_TEXT" />
