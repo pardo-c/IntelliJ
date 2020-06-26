@@ -12,6 +12,7 @@
       <mapping pattern="component" type="PLAIN_TEXT" />
       <mapping pattern="EmailAttachments" type="PLAIN_TEXT" />
       <mapping pattern="tenant-service" type="PLAIN_TEXT" />
+      <mapping pattern="roadseg" type="PLAIN_TEXT" />
       <mapping ext="e" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
