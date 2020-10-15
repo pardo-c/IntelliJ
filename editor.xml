@@ -8,6 +8,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingOpacity" value="100" />
   </component>
