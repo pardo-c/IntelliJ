@@ -4,7 +4,7 @@
     <property name="created">2020-04-29T23:43:17</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2021-05-25T12:01:28</property>
+    <property name="modified">2021-05-25T14:52:11</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2680,7 +2680,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="383a42" />
+        <option name="FOREGROUND" value="1c1e2a" />
         <option name="BACKGROUND" value="fafafa" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
