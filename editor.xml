@@ -9,6 +9,6 @@
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingOpacity" value="100" />
+    <option name="tagTreeHighlightingOpacity" value="50" />
   </component>
 </application>
