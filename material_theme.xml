@@ -13,10 +13,11 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
+    <option name="upperCaseTabs" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="customSidebarHeight" value="22" />
     <option name="treeFontSize" value="14" />
-    <option name="tabFontSize" value="16" />
+    <option name="tabFontSize" value="17" />
     <option name="highlightThickness" value="3" />
     <option name="indicatorThickness" value="5" />
     <option name="rightTreeIndent" value="12" />
